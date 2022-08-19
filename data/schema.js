@@ -12,6 +12,7 @@ import {
 import axios from 'axios';
 
 
+
 const query = new GraphQLObjectType({
     name: "Query",
     description: "First GraphQL Server Config — Yay!",
